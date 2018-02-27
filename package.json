@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/michalkvasnicak/babel-plugin-css-modules-transform#readme",
   "dependencies": {
-    "css-modules-require-hook": "git+ssh://git@github.com/a-x-/css-modules-require-hook.git#v4.2.8",
+    "css-modules-require-hook": "git+ssh://git@github.com/a-x-/css-modules-require-hook.git#v4.2.9",
     "mkdirp": "^0.5.1"
   },
   "devDependencies": {
@@ -46,7 +46,7 @@
     "mocha": "^3.4.2",
     "nyc": "^10.3.2",
     "postcss": "^5.x",
-    "postcss-icss-selectors": "git+ssh://git@github.com/a-x-/postcss-icss-selectors.git#v2.0.4",
+    "postcss-icss-selectors": "git+ssh://git@github.com/a-x-/postcss-icss-selectors.git#v2.0.5",
     "postcss-modules-extract-imports": "^1.x",
     "postcss-modules-scope": "^1.x",
     "postcss-modules-values": "^1.x",
