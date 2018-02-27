@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/michalkvasnicak/babel-plugin-css-modules-transform#readme",
   "dependencies": {
-    "css-modules-require-hook": "git+ssh://git@github.com/a-x-/css-modules-require-hook.git#v4.2.6",
+    "css-modules-require-hook": "git+ssh://git@github.com/a-x-/css-modules-require-hook.git#v4.2.7",
     "mkdirp": "^0.5.1"
   },
   "devDependencies": {
